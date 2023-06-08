@@ -10,7 +10,7 @@ Please check `scheduler.py` for implementation
 
 Please check `scheduler_example.py`, which imports the class `Scheduler`. In example file, `call_my_name()` is main callback function and `is_second_multiple_of_number()` is trigger callback. If you run the `scheduler_example.py` it will output "Aman Bhanse" whenever second of time is divible by 6
 
-Note :
+##Note :
 
 - [Behaviour] : Calls the main callback function for first time and then checks trigger condition from trigger callback function. More like do while loop
 
